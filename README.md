@@ -2,4 +2,5 @@
 This sample using http://threedubmedia.com/ for drag & drop and http://brianium.github.io/watermarkjs/ for watermark images
 
 # Demo
-[Visit Here](http://demo.momo.my.id/football_player/)
+[Youtube Video](https://www.youtube.com/watch?v=uPLUF5pwpp8)
+[Visit Here](https://drag-drop-football-player.herokuapp.com/)
